@@ -1,29 +1,20 @@
-# Label_ML
-<<<<<<< HEAD
+# Projet Machine Learning
+## Isaac Coffi, Clément Gibert, Vincent Lansardiere
+
 
 # Au programme 🤖
 
-* Du Lundi 18 mai au mercredi 20 mai :
-	* Projet 
-	* Évaluation  
+* Rendre le Lundi 1 juin :
+	* Projet Machine learning 
+
   
 _______________
 
 
-
 ## Suivi 📈
-
-Créer un repo github et faire a minima deux pushs par jour (matin et aprem) afin que je vois ou vous en êtes 👌
-
 
 ## Projet 👀
 
-* se renseigner sur le déploiement de modèle de ML
-* ecrire un algorithme pour classer les données du fichier labels.csv et le deployer avec flask (vous pouvez utiliser d'autres données si vous le souhaitez)
-
-
-## Évaluation 👨‍🎓
-* Créer un compte sur [nowledgeable](https://nowledgeable.com/invitation/student/45d7c636a5cc4ffe8c85460e88c0d596) et faire les exercices avant le 19/05/2020. 
 
 
 ## Les ressources utiles 👀

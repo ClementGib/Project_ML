@@ -11,13 +11,33 @@
 _______________
 
 
-## Suivi 📈
 
-## Projet 👀
-
+## Objectif 🏁
 
 
-## Les ressources utiles 👀
+## Outils 🔨
+* scikit-learn
+* pandas
+* numpy
+* flask
+
+## Structure 📈
+### This project has four parts :
+
+1. model.py — Contient le code pour le model de machine learning prédisent les ventes dans les prochaines mois 
+
+2. page.py — Contient l'API Flask qui recoit le détail des ventes et affiche
+
+3. request.py — Utilisé pour requéter le module et afficher les valeurs retourné uses requests module to call APIs defined in app.py and displays the returned value.
+
+4. HTML/CSS — This contains the HTML template and CSS styling to allow user to enter sales detail and displays the predicted sales in the third month.
+
+
+
+
+## Mise en place 🛠️
+
+
 
 ### Les bases en rapide
 - python doctor : https://python.doctor

@@ -41,8 +41,8 @@ _______________
 
 ## Mise en place 🛠️
 1. Déployer l'image à l'aide du Dockerfile
-2. Accèder au serveur web Flask
-3. A la racine accéder au 
+2. Accèder au serveur web Flask à l'aide du port 56733
+3. Entrer les données dans le formulaire afin d'obtenir les ventes estimé pour le trimestre
 
 
 ### Les bases en rapide

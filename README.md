@@ -40,7 +40,8 @@ _______________
 
 
 ## Mise en place 🛠️
-Dockerfile
+1. Déployer l'image à l'aide du Dockerfile
+2. Accèder au serveur web Flask
 
 
 ### Les bases en rapide

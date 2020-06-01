@@ -10,10 +10,15 @@
   
 _______________
 
-
-
 ## Objectif 🏁
 
+1. Faire un algorithme ML et l'entrainer avec un jeux de données
+
+2. Créer API Flask avec un formulaire avec des champ avec requête et boutton submit qui vont vers l'algo en mode numpy array
+
+3. Créer un dockerfile déployant l'application sur un container
+
+4. Afficher le résultat sous la forme d'une page HTML
 
 ## Outils 🔨
 * scikit-learn
@@ -31,7 +36,6 @@ _______________
 3. request.py — Utilisé pour requéter le module et afficher les valeurs retourné uses requests module to call APIs defined in app.py and displays the returned value.
 
 4. HTML/CSS — This contains the HTML template and CSS styling to allow user to enter sales detail and displays the predicted sales in the third month.
-
 
 
 

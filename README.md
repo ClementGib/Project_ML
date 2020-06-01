@@ -42,6 +42,7 @@ _______________
 ## Mise en place 🛠️
 1. Déployer l'image à l'aide du Dockerfile
 2. Accèder au serveur web Flask
+3. A la racine accéder au 
 
 
 ### Les bases en rapide
